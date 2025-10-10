@@ -9,9 +9,9 @@ The **Mobile Tester Agent** is an **AI-powered test automation tool** built with
 
 ## 📂 Repositories
 
-* **Core Agent (Koog + Ktor API):** [mobile-tester-agent](https://github.com/maikotrindade/mobile-tester-agent)
-* **Frontend Dashboard:** [mobile-tester-agent-frontend](https://github.com/maikotrindade/mobile-tester-agent-frontend)
-* **Sample Android App:** [mobile-tester-agent-sample-app](https://github.com/maikotrindade/mobile-tester-agent-sample-app)
+* **Core Agent (Koog + Ktor API):** [Mobile_Agent_Tester](https://github.com/IdeaMan980/Mobile_Agent_Tester)
+* **Frontend Dashboard:** [Mobile_Agent_Tester_Frontend](https://github.com/IdeaMan980/Mobile_Agent_Tester_Frontend)
+* **Sample Android App:** [Mobile_Agent_Tester_Sample_App](https://github.com/IdeaMan980/Mobile_Agent_Tester_Sample_App)
 
 ---
 
